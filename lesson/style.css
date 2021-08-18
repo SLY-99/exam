@@ -1,0 +1,70 @@
+.close{
+    width: 30px;
+    margin-left: 77px;
+}
+.pos{
+    position: relative;
+    left: 12px;
+}
+.close:hover{
+    background-color: red;
+}
+.menu{
+    width: 20px;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.height{
+    height: 100vh;
+}
+.height2{
+    height: 610px !important;
+}
+.bg-image{
+    background-image: url(./images/2048382.png);
+    background-size: contain;
+}
+.search{
+    outline:none;
+    width: 350px;
+    height: 35px;
+}
+.search::placeholder{
+    font-size: 20px;
+    font-weight: 600;
+    padding-left: 20px;
+}
+.overflow{
+    height: 100vh;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    position: relative;
+}
+.hover:hover{
+    background-color:rgb(202, 215, 223);
+}
+.message{
+    width: 700px;
+    height: 50px;
+    outline: none;
+    margin-left: 500px;
+    margin-bottom: 10px;
+}
+.message::placeholder{
+    font-size: 20px;
+    font-weight: 600;
+    padding-left: 20px;
+}
+.send{
+    width: 50px;
+    margin-left: 1150px;
+    margin-bottom: 17px;
+}
+.microphone{
+    width: 50px;
+    margin-left: 1220px;
+    margin-bottom: 12px;
+}
+.ml{
+    margin-left: 570px;
+}
